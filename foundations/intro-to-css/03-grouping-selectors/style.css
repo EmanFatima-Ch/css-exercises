@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.design,
+.designs {
+    font-family: 'Helvetica','Times New Roman','sans-serif';
+    font-size: 28px;
+}
+.design {
+    background-color: rgb(0, 0, 0);
+    color: rgb(252, 253, 255);
+}
+.designs {
+    background-color: rgb(220, 78, 7);
+    color: rgb(11, 11, 11);
+}

@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.simple {
+    background-color: rgb(238, 138, 138);
+    color: rgb(4, 4,4);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.font-size {
+    font-size: 44px;
+}
+#an-id {
+    color: rgb(13, 17, 248);
+    font-size: 66px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#another {
+    background-color: rgb(22, 253, 6);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
